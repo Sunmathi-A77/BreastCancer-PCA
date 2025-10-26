@@ -29,23 +29,14 @@ This dataset contains 569 records and 32 columns (30 features + ID + Diagnosis).
 
 BreastCancerPrediction/
 │
-
 ├── wdbc.data                  # Original dataset
-
 ├── notebook.ipynb             # Jupyter Notebook for EDA, preprocessing, and model training
-
 ├── pt.pkl                     # Saved PowerTransformer object
-
 ├── scaler.pkl                 # Saved StandardScaler object
-
 ├── pca.pkl                    # Saved PCA object
-
 ├── svm.pkl                    # Trained SVM model
-
 ├── breast_cancer_svm.pkl      # Complete pipeline including preprocessing + PCA + SVM
-
 ├── app.py                     # Streamlit app for prediction
-
 └── README.md                  # Project documentation
 
 ### 🧩 Libraries and Tools
