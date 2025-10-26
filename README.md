@@ -11,9 +11,9 @@ A Streamlit web app is deployed for real-time predictions based on user input.
 
 👉 Try the App Here: https://breastcancer-pca.streamlit.app/
 
-<img src="(https://github.com/user-attachments/assets/3f0d11f5-e957-43a1-a571-0cca21f9b98a)" alt="App Screenshot" width="300">
+<img src="https://github.com/user-attachments/assets/3f0d11f5-e957-43a1-a571-0cca21f9b98a" alt="App Screenshot" width="300">
 
-<img src="(https://github.com/user-attachments/assets/5a3a870b-496a-4d79-97b0-e63771fae621)" alt="App Screenshot" width="300">
+<img src="https://github.com/user-attachments/assets/5a3a870b-496a-4d79-97b0-e63771fae621" alt="App Screenshot" width="300">
 
 ### 📂 Dataset
 
