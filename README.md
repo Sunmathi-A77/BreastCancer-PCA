@@ -26,7 +26,7 @@ Filename used: wdbc.data
 This dataset contains 569 records and 32 columns (30 features + ID + Diagnosis).
 
 ### 🧠 Project Structure
-
+```
 BreastCancerPrediction/
 │
 ├── wdbc.data                  # Original dataset
@@ -38,7 +38,7 @@ BreastCancerPrediction/
 ├── breast_cancer_svm.pkl      # Complete pipeline including preprocessing + PCA + SVM
 ├── app.py                     # Streamlit app for prediction
 └── README.md                  # Project documentation
-
+```
 ### 🧩 Libraries and Tools
 
 Python 3.8+
